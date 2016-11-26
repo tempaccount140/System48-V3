@@ -1,4 +1,8 @@
-System48 Version 3.0.6 Changelog:
-*Updated system48 for fridays update
-*New loader by TheMichalos || Skid#4432 (<3)
-*New updates on the loader.
+SYSTEM48 V3.0.7 CHANGELOG
+*Huge bug fixes and much better stability
+*New buttons and a bigger gui (BtoolsLock, UnBtoolsLock, Crash, Clone, BigHead, SecretGod, HideHead, NameGUI, Punish, FirstPerson, ThirdPerson)
+*Added "particlesid" to the gui
+*Fixed clone, it no-longer clones the clones. Only you.
+*Added *some* of the tabs, (LocalPlayer -> TeapotTurret, Lighting -> Time_Day, Lighting -> Time_Night, Lighting -> Remove_Fog, Destructive -> Purge, GameSpecific -> Apoc Badges)
+(File -> Credits (NOT WORKING ATM))
+*System48 may or may not function on 32 bit pc's I havent tested.
