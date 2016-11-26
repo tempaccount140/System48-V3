@@ -1,0 +1,62 @@
+System48 chathook commands, to execute a chathook command use prefix ";" also known as a semi-colon.
+
+Here's an example:	;ff all
+
+(SOME OF THESE ARE IN THE ACTUAL GUI TOO)
+
+ChatHook auto loads up whenever System48 is fully loaded.
+
+----------Regular commands----------:
+
+ff [player/all/others/me]
+unff [player/all/others/me]
+sparkles [player/all/others/me]
+unsparkles [player/all/others/me]
+fire [player/all/others/me]
+unfire [player/all/others/me]
+smoke [player/all/others/me]
+unsmoke [player/all/others/me]
+btools [player/all/others/me]
+char [player/all/others/me] [id]
+ws [player/all/others/me] [value]
+jp [player/all/others/me] [value]
+explode [player/all/others/me]
+fog [value]
+kill [player/all/others/me]
+tp [player1/all/others/me] [player2/all/others/me]
+to [player/all/others/me]
+bring [player/all/others/me]
+invis [player/all/others/me]
+vis [player/all/others/me]
+freeze [player/all/others/me]
+thaw [player/all/others/me]
+rtools [player/all/others/me]
+god [player/all/others/me]
+ungod [player/all/others/me]
+time [value]
+rhum [player/all/others/me]
+punish [player/all/others/me]
+music [id]
+stopmusic
+sky [id]
+duck [player/all/others/me]
+crash [player/all/others/me]
+unlock [player]
+lock [player]
+watch [player]
+unwatch [player]
+clone [player/all/others/me]
+particles [player/all/others/me] [id]
+bighead [player/all/others/me]
+changestat [player/all/others/me] [statname] [value]
+
+----------CLua function commands----------:
+
+getglobal [name]
+getfield [name]
+setfield [name]
+pushnumber [number]
+pcall [nargs] [nresults]
+pushstring [string]
+pushvalue [index]
+clearstack
