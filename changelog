@@ -6,3 +6,8 @@ SYSTEM48 V3.0.7 CHANGELOG
 *Added *some* of the tabs, (LocalPlayer -> TeapotTurret, Lighting -> Time_Day, Lighting -> Time_Night, Lighting -> Remove_Fog, Destructive -> Purge, GameSpecific -> Apoc Badges)
 (File -> Credits (NOT WORKING ATM))
 *System48 may or may not function on 32 bit pc's I havent tested.
+V3.0.7 UPDATE 2:
+I removed the loader chat bubble because u bullied me to
+fixed some bullshit bug in the startup
+
+-AzuLX & QuadCore
