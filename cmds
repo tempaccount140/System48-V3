@@ -1,9 +1,7 @@
 System48 chathook commands, to execute a chathook command use prefix ";" also known as a semi-colon.
-
 Here's an example:	;ff all
 
 (SOME OF THESE ARE IN THE ACTUAL GUI TOO)
-
 ChatHook auto loads up whenever System48 is fully loaded.
 
 ----------Regular commands----------:
