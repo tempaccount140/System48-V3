@@ -49,6 +49,8 @@ clone [player/all/others/me]
 particles [player/all/others/me] [id]
 bighead [player/all/others/me]
 changestat [player/all/others/me] [statname] [value]
+firstperson [player/all/others/me]
+thirdperson [player/all/others/me]
 
 ----------CLua function commands----------:
 
