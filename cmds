@@ -51,6 +51,8 @@ bighead [player/all/others/me]
 changestat [player/all/others/me] [statname] [value]
 firstperson [player/all/others/me]
 thirdperson [player/all/others/me]
+shirt [player/all/others/me] [templateid]
+pants [player/all/others/me] [templateid]
 
 ----------CLua function commands----------:
 
