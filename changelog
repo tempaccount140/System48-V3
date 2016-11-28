@@ -1,11 +1,9 @@
-SYSTEM48 V3.0.8 CHANGELOG
-*Bug fixes, stability increase
-*Added chathook commands shirt and pants
-*Added xtra toolbar shit (Destructive/Mayhem -> Uncle Bill Memorial ;(, Audios -> Beluah, LocalPlayer -> Gnarly W33d Particles)
-*Added buttons "GodMode" and "UnGodMode"
-*Expect unlockws and unanchorws coming soon!
-CON:
-*One problem, System48 doesnt stay above roblox for some retarded reason. Fixed soon
-
-UPDATE 2:
-*Added new whitelist method
+SYSTEM48 V3.0.9 CHANGELOG:
+*Added chathook command('s), "bigfire"
+*Fixed some bugs with whitelist loading
+*Realised secretgod only functioned for localplayer, fixed that
+*Removed the secret-god messagebox (i think u all know what it does now xd)
+*Removed the messagebox for the unclebill memorial 
+*Added secretgod to localplayer commands
+*Added clearluastack to file (i normally add this to functions anyways, incase i didnt here u go)
+*system48 stays above roblox again o_O
