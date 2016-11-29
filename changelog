@@ -1,9 +1,13 @@
-SYSTEM48 V3.0.9 CHANGELOG:
-*Added chathook command('s), "bigfire"
-*Fixed some bugs with whitelist loading
-*Realised secretgod only functioned for localplayer, fixed that
-*Removed the secret-god messagebox (i think u all know what it does now xd)
-*Removed the messagebox for the unclebill memorial 
-*Added secretgod to localplayer commands
-*Added clearluastack to file (i normally add this to functions anyways, incase i didnt here u go)
-*system48 stays above roblox again o_O
+SYSTEM48 V3.1.0 CHANGELOG
+*You WILL get a delay when injecting. Do not be worried as Ive removed the console
+*Completely removed the console, all outputs (such as credits, fe check etc) is now all in messageboxes
+*Fixed up a few bugs, without the console, all the bugs from it have vanished
+*fixed up that annoying bug where chathook crashes you
+*Added "minimizegui" to the "file" toolbar. As requested.
+*Removed "weed particles" (kinda useless tbh)
+*even doe uncle bill is back, ill still keep the tribute xd
+*added a "basic guide" to the new toolsection "help"
+
+*i keep fucking up unanchor and unlock workspace, i'll work on it soon
+
+System48 by AzuLX & Quad-Core 2016
