@@ -1,13 +1,9 @@
-SYSTEM48 V3.1.0 CHANGELOG
-*You WILL get a delay when injecting. Do not be worried as Ive removed the console
-*Completely removed the console, all outputs (such as credits, fe check etc) is now all in messageboxes
-*Fixed up a few bugs, without the console, all the bugs from it have vanished
-*fixed up that annoying bug where chathook crashes you
-*Added "minimizegui" to the "file" toolbar. As requested.
-*Removed "weed particles" (kinda useless tbh)
-*even doe uncle bill is back, ill still keep the tribute xd
-*added a "basic guide" to the new toolsection "help"
+SYSTEM48 V3.1.1 CHANGELOG:
+*Updated System48 (Roblox Update)
+*If you're a new buyer, updates this late are rare
+*Sorry it took forever. Roblox fucked up retcheck
+*This may shutdown your game. If so please wait an update is being worked on
 
-*i keep fucking up unanchor and unlock workspace, i'll work on it soon
+*Developing a changelog function that opens a changelog on the first time u open sys.
 
-System48 by AzuLX & Quad-Core 2016
+- System48 By AzuLX & Quad Core
