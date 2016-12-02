@@ -1,10 +1,30 @@
-SYSTEM48 V3.1.1 CHANGELOG:
-*Updated System48 (Roblox Update)
-*If you're a new buyer, updates this late are rare
-*Some functions are NOT working. Im just as confused as you
-*Sorry it took forever. Roblox fucked up retcheck
-*This may shutdown your game. If so please wait an update is being worked on
+SYSTEM48 V3.1.2 CHANGELOG - 02/12/2016
+*Happy friday update guys!
 
-*Developing a changelog function that opens a changelog on the first time u open sys.
+*Added hotkey functions:
+F1 = GodMode (On you)
+F2 = BTools (On you)
+F3 = ForceField (On you)
+F4 = Sparkles (On you)
+F5 = Fire (On you)
+F6 = Particles (On you)
+F7 = Invisible (On you)
+F8 = Visible (On you)
+F9 = Smoke (On you)
+(More coming soon! Give me suggestions in #buyers!)
+(You dont need to click the gui, play roblox as usual and use the hotkey commands)
+
+*System48 will run much, much smoother then it used to do
+*Fixed up a few bugs and i think i secured a few of the crashing issues
+*Every function should work now :P
+*I added a "yes or no" to the message box in the apocbadges function (Incase of accidental activation)
+
+*Retcheck is modified on some peoples clients (It is on Quad's)
+but for me its fully functional so I am confused :/
+
 
 - System48 By AzuLX & Quad Core
+
+(I just wanted to add I am so thankful for the support me and quadcore have recieved,
+system48 was a massive success and along with everyone enjoying the exploit, my purchasers
+have inspired me to make system48 such an incredible hack. Much, much love.)
