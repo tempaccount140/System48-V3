@@ -1,33 +1,4 @@
-SYSTEM48 V3.1.2 CHANGELOG - 02/12/2016
-*Happy friday update guys!
-
-*Added hotkey functions:
-F1 = GodMode (On you)
-F2 = BTools (On you)
-F3 = ForceField (On you)
-F4 = Sparkles (On you)
-F5 = Fire (On you)
-F6 = Particles (On you)
-F7 = Invisible (On you)
-F8 = Visible (On you)
-F9 = Smoke (On you)
-(More coming soon! Give me suggestions in #buyers!)
-(You dont need to click the gui, play roblox as usual and use the hotkey commands)
-
-*System48 will run much, much smoother then it used to do
-*Fixed up a few bugs and i think i secured a few of the crashing issues
-*Every function should work now :P
-*I added a "yes or no" to the message box in the apocbadges function (Incase of accidental activation)
-
-*Retcheck is modified on some peoples clients (It is on Quad's)
-but for me its fully functional so I am confused :/
-
-SYSTEM48 V3.2.2 2ND UPDATE
-*Bug fixes, stability increase
-*Added "random" and "guests" (Random selects a random person on the server, guests selects all the guests)
-
-- System48 By AzuLX & Quad Core
-
-(I just wanted to add I am so thankful for the support me and quadcore have recieved,
-system48 was a massive success and along with everyone enjoying the exploit, my purchasers
-have inspired me to make system48 such an incredible hack. Much, much love.)
+System48 V3.1.3 03/12/16
+*Major security update
+*Patched a few bugs
+- This update was based on increases on security and protection. Nothing new has been added since 3.1.2
