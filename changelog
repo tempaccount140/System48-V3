@@ -5,4 +5,5 @@ SYSTEM48 V3.1.4 CHANGELOG 04/12/16:
 *Added "help" to name support, write help in the player name section and press a button for a msgbox with help
 *Security fixes
 
+*I am still working on resolving the crashing issue, please just be patient
 *State commands kept fucking up roblox, :/ It'll be done sooner or later
