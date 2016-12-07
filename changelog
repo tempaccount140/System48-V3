@@ -1,9 +1,7 @@
-SYSTEM48 V3.1.6 CHANGELOG 06/12/16:
-*Fixes
-*Added sub-sub tabs with easier and more shit. Check the toolbar! (thx to kronix)
-*Moved statechanging commands to the localplayer tab
-*Working on that new retcheck shit
-*Unanchor broke *again* >:(
+SYSTEM48 V3.1.7 CHANGELOG 06/12/16:
+*System48 has bypassed the new retcheck issue. It should now not crash for everyone
+*Unfortunently, due to the new retcheck, some functions are in-compatiable with Sys48 (Custom particles, etc)
+*Removed the changestate tab, its waaay to unstable and too disgusting for sys48, I need to work on it.
 
 System48 by AzuLX and Quad Core
 Aided by Customality
