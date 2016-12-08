@@ -1,7 +1,11 @@
-SYSTEM48 V3.1.7 CHANGELOG 06/12/16:
-*System48 has bypassed the new retcheck issue. It should now not crash for everyone
-*Unfortunently, due to the new retcheck, some functions are in-compatiable with Sys48 (Custom particles, etc)
-*Removed the changestate tab, its waaay to unstable and too disgusting for sys48, I need to work on it.
+SYSTEM48 V3.1.8 UPDATE 08/12/16
+*Updated System48 (Roblox Update)
+*Removed a shit ton of broken/useless buttons. Made ui neater
+*The new retcheck function sys uses doesnt let some commands run. My apologies.
+
+COMING SOON:
+*Fixing those non-functional commands
+*Working on adding +/- fire and +/- smoke
 
 System48 by AzuLX and Quad Core
 Aided by Customality
