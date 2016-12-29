@@ -1,7 +1,14 @@
-System48 Pro V3.2.2 - 28/12/2016 CHANGELOG:
+System48 Pro V3.2.3 - 29/12/2016 CHANGELOG:
 
-*Added toolbar Destructive/Mayhem
-*Added in that toolbar - Unanchorws and unlockws
+*Fixed up unpunish and punish!
+*Added Gravity [val] to chathook
+*Added Unanchorws to chathook
+*Added Unlockws to chathook
+*Added Guest [plr] to chathook (turns player into a guest)
+*Added Noob [plr] to chathook
+*Added Sethealth [plr] [val] to chathook
+
+No more updates till i get home next week.
 
 System48 by AzuLX and Quad Core
 Aided by Customality
