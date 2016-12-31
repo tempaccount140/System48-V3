@@ -1,0 +1,67 @@
+Features
+
+And we're still adding more...
+
+Change WalkSpeed - Alter your walkspeed, make yourself fast, or slow!
+Change JumpPower - Want to jump insanely high! This is for you!
+Change FogEnd - Want to make the game foggy? That's this!
+Play Sound - Includes Music! Paste the ID and go!
+Give Custom Particles - Give any custom Particles to a person of your choice!
+Change SkyBox - Completely change the ingame skybox to a decal of your choice!
+
+Turn Invisible - Make your player completely invisible by using the hotkey (F7) or the UI!
+Become Visible - Let people see you after you're invisible.
+Change Stats - Be able to swiftly alter your kills ingame!
+GodMode - Become a god! Nothing can kill you.
+Heal - Have you taken damage? Quickly use heal to get back to full health instantly.
+Build Tools - Give yourself basic build tools.
+Give Self Forcefield - Give yourself a forcefield instance.
+Enable Guest_Chat - Allows you to talk as a guest!
+
+Kick Player - Remove a player from the game of your choice.
+Kill Player - Kill a player from the game of your choice
+Teleport Player to You - Instantly teleport the player to you!
+Teleport You to Player - Instantly go-to the player!
+Make a player invisible - Make the player completely invisible to the naked eye
+Make the player visible - Make the invisible player back to normal.
+Godmode a Player - Make a player of your choice completely godded!
+UnGodmode a Player - Make the players health back to normal.
+Freeze Plr - Make the player completely unable to move.
+Thaw Plr - Thaw the frozen player!
+Toggle Sparkles on Player - Quickly give or remove sparkles on the player.
+Toggle Fire on Player - Set the player alight! Or distinguish the player!
+Toggle Smoke on the Player - Make the player spew out smoke, or quickly remove the smoke!
+Crash Player - Completely crash the player of your choice.
+SecretGod Player - Makes the player look as if he has normal health, but hes completely godded!
+UnSecretGod Player - Make the player's health back to normal.
+Bighead Player - Give the player a big head!
+Watch a Player - See what a player is up to!
+UnWatch a Player - Go back to your view!
+
+Change Time to Night - Sets the time of day to Night
+Change Time to Day - Sets the time of day to Day
+Change FogColor to Black - Change the fogcolor to a dark Black
+Change FogColor to White - Change the fogcolor to a White
+Change FogColor to Red - Change the fogcolor to a sinister Red
+Change FogColor to Green - Change the fogcolor to a festive Green
+Change FogColor to Blue - Change the fogcolor to a deep Blue
+Remove the fog - Sets the fogend to 100000
+Toggle Dynamic Lighting - Very swiftly toggle the ingame dynamic lighting
+
+Unanchor all parts in workspace - Total. Destruction.
+Unlock all parts in workspace - Be able to alter every part using btools.
+
+All Ingame badges and a statchange on Apocalypse Rising! - Using our toolbar, you can execute that!
+
+FilteringCheck - Check if the game has FilteringEnabled on or not!
+StopSound - Kill off the sound you've played using System48
+
+F1 - Gives you GodMode
+F2 - Gives you Build Tools
+F3 - Gives you a ForceField
+F4 - Gives you Sparkles
+F5 - Gives you Fire
+F6 - Gives you Particles
+F7 - Makes you Invisible
+F8 - Makes you Visible
+F9 - Gives you Smoke
