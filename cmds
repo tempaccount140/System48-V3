@@ -1,103 +1,102 @@
-Most of these are in BETA and may be buggy, report all issues to AzuLX.
+	\nCurrent System48 Commands.
+	NOTE: You're able to use plr/all/others/me/guest/random
+	You can do shortnames too.
 
-Current System48 Commands.
-NOTE: You're able to use plr/all/others/me/guest/random
-You can do shortnames too.
-Mode: NON-FE
+	Player Commands:
+	[X] ff [plr]
+	[X] unff [plr]
+	[X] sparkles [plr]
+	[X] unsparkles [plr]
+	[X] fire [plr]
+	[X] unfire [plr]
+	[X] smoke [plr]
+	[X] unsmoke [plr]
+	[X] btools [plr]
+	[X] rtools [plr]
+	[X] bigfire [plr]
+	[X] char [plr] [id]
+	[X] ws [plr] [value]
+	[X] jp [plr] [value]
+	[X] explode [plr]
+	[X] kill [plr]
+	[X] respawn [plr]
+	[X] tp [plr] [plr2]
+	[X] to [plr]
+	[X] bring [plr]
+	[X] invis [plr]
+	[X] vis [plr]
+	[X] freeze [plr]
+	[X] thaw [plr]
+	[X] rtools [plr]
+	[X] god [plr]
+	[X] sgod [plr]
+	[X] ungod [plr]
+	[X] unlock [plr]
+	[X] lock [plr]
+	[X] unlock [plr]
+	[X] watch [plr]
+	[X] unwatch [plr]
+	[X] clone [plr]
+	[X] firstperson [plr]
+	[X] thirdperson [plr]
+	[X] shirt [plr] [templateid]
+	[X] pants [plr] [templateid]
+	[X] bighead [plr]
+	[X] peanuthead [plr]
+	[X] changestat [plr] [statname] [value]
+	[X] guest [plr]
+	[X] unguest [plr]
+	[X] noob [plr]
+	[X] unnoob [plr]
+	[X] particles [plr] [id]
+	[X] duck [plr]
+	[X] crash/kick [plr]
+	[X] fling [plr]
+	[X] char [plr] [userid]
+	[X] unchar [plr]
+	[X] nojump [plr]
+	[X] rejump [plr]
+	[X] stun [plr]
+	[X] guestchat
+	[X] chat [plr] [input]
+	[X] light [plr]
+	[X] unlight [plr]
 
-Player Commands:
-[X] tptool
-[X] ff [plr]
-[X] unff [plr]
-[X] sparkles [plr]
-[X] unsparkles [plr]
-[X] fire [plr]
-[X] unfire [plr]
-[X] smoke [plr]
-[X] unsmoke [plr]
-[X] btools [plr]
-[X] rtools [plr]
-[X] bigfire [plr]
-[X] char [plr] [id]
-[X] ws [plr] [value]
-[X] jp [plr] [value]
-[X] explode [plr]
-[X] kill [plr]
-[X] respawn [plr]
-[X] tp [plr] [plr2]
-[X] to [plr]
-[X] bring [plr]
-[X] invis [plr]
-[X] vis [plr]
-[X] freeze [plr]
-[X] thaw [plr]
-[X] rtools [plr]
-[X] god [plr]
-[X] ungod [plr]
-[X] sethealth [plr]
-[X] unlock [plr]
-[X] lock [plr]
-[X] unlock [plr]
-[X] watch [plr]
-[X] unwatch [plr]
-[X] clone [plr]
-[X] firstperson [plr]
-[X] thirdperson [plr]
-[X] shirt [plr] [templateid]
-[X] pants [plr] [templateid]
-[X] bighead [plr]
-[X] peanuthead [plr]
-[X] changestat [plr] [statname] [value]
-[X] guest [plr]
-[X] unguest [plr]
-[X] noob [plr]
-[X] unnoob [plr]
-[X] particles [plr] [id]
-[X] duck [plr]
-[X] crash [plr]
-[X] fling [plr]
-[X] charapp [plr] [userid]
-[X] uncharapp [plr]
-[X] nojump [plr]
-[X] rejump [plr]
-[X] stun [plr]
-[X] guestchat
-[X] light [plr]
-[X] unlight [plr]
+	Server Commands:
+	[X] time [value]
+	[X] gravity [value]
+	[X] rhum [plr]
+	[X] punish [plr]
+	[X] unpunish [plr]
+	[X] music [id]
+	[X] daytime
+	[X] nighttime
+	[X] noon
+	[X] sunrise
+	[X] stopmusic
+	[X] skybox [id]
+	[X] removeskybox
+	[X] unanchorws
+	[X] unlockws
+	[X] fogend [value]
+	[X] fogstart [value]
+	[X] ambient [value]
+	[X] fogcolor [value]
 
-Server Commands:
-[X] time [value]
-[X] gravity [value]
-[X] rhum [plr]
-[X] punish [plr]
-[X] music [id]
-[X] stopmusic
-[X] skybox [id]
-[X] removeskybox
-[X] unanchorws
-[X] unlockws
-[X] fogend [value]
-[X] fogstart [value]
-[X] ambient [value]
-[X] fogcolor [value]
-[X] daytime
-[X] nighttime
-[X] noon
-[X] sunrise
+	Game Specific Commands:
+	[X] fencingreach
+	[X] longfencingreach
+	[X] customfencingreach [value]
+	[X] finishmap [map] (finishes map on Bhop or Surf)
+	[X] drivebloxcash [plr] [value]
+	[X] apocstats
 
-Game Specific Commands:
-[X] fencingreach
-[X] longfencingreach
-[X] customfencingreach [value]
-[X] finishmap [map] (finishes map on Bhop or Surf)
-[X] apocstats
-
-C Lua Commands:
-[X] getglobal [name]
-[X] getfield [name]
-[X] setfield [name]
-[X] pushnumber [number]
-[X] pcall [nargs] [nresults]
-[X] pushstring [string]
-[X] pushvalue [index]
-[X] clearstack
+	C Lua Commands:
+	[X] getglobal [name]
+	[X] getfield [name]
+	[X] setfield [name]
+	[X] pushnumber [number]
+	[X] pcall [nargs] [nresults]
+	[X] pushstring [string]
+	[X] pushvalue [index]
+	[X] clearstack
