@@ -1,71 +1,105 @@
-System48 chathook commands, to execute a chathook command use the prefix ";" also known as a semi-colon.
-Here's an example:	;ff all
+So.. The cmds are too big for the window to process. :|
 
-ChatHook auto loads up whenever System48 is fully loaded.
+Most of these are in BETA and may be buggy, report all issues to AzuLX.
 
-----------Regular commands----------:
+Current System48 Commands.
+NOTE: You're able to use plr/all/others/me/guest/random
+You can do shortnames too.
+Mode: NON-FE
 
-ff [player/all/others/me/guest/random]
-unff [player/all/others/me/guest/random]
-sparkles [player/all/others/me/guest/random]
-unsparkles [player/all/others/me/guest/random]
-fire [player/all/others/me/guest/random]
-unfire [player/all/others/me/guest/random]
-smoke [player/all/others/me/guest/random]
-unsmoke [player/all/others/me/guest/random]
-btools [player/all/others/me/guest/random]
-bigfire [player/all/others/me/guest/random]
-char [player/all/others/me/guest/random] [id]
-ws [player/all/others/me/guest/random] [value]
-jp [player/all/others/me/guest/random] [value]
-explode [player/all/others/me/guest/random]
-fog [value]
-kill [player/all/others/me/guest/random]
-chat [player/all/others/me/guest/random] [input]
-tp [player/all/others/me/guest/random] [player2/all/others/me/guest/random]
-to [player/all/others/me/guest/random]
-bring [player/all/others/me/guest/random]
-invis [player/all/others/me/guest/random]
-vis [player/all/others/me/guest/random]
-freeze [player/all/others/me/guest/random]
-thaw [player/all/others/me/guest/random]
-rtools [player/all/others/me/guest/random]
-god [player/all/others/me/guest/random]
-ungod [player/all/others/me/guest/random]
-sethealth [player/all/others/me/guest/random]
-time [value]
-gravity [value]
-rhum [player/all/others/me/guest/random]
-punish [player/all/others/me/guest/random]
-music [id]
-stopmusic
-sky [id]
-duck [player/all/others/me/guest/random]
-crash [player/all/others/me/guest/random]
-unlock [player]
-lock [player]
-watch [player]
-unwatch [player]
-clone [player/all/others/me/guest/random]
-particles [player/all/others/me/guest/random] [id]
-bighead [player/all/others/me/guest/random]
-changestat [player/all/others/me/guest/random] [statname] [value]
-firstperson [player/all/others/me/guest/random]
-thirdperson [player/all/others/me/guest/random]
-shirt [player/all/others/me/guest/random] [templateid]
-pants [player/all/others/me/guest/random] [templateid]
-unanchorws
-unlockws
-guest [player/all/others/me/guest/random]
-noob [player/all/others/me/guest/random]
+Player Commands:
+[X] tptool
+[X] ff [plr]
+[X] unff [plr]
+[X] sparkles [plr]
+[X] unsparkles [plr]
+[X] fire [plr]
+[X] unfire [plr]
+[X] smoke [plr]
+[X] unsmoke [plr]
+[X] btools [plr]
+[X] rtools [plr]
+[X] bigfire [plr]
+[X] char [plr] [id]
+[X] ws [plr] [value]
+[X] jp [plr] [value]
+[X] explode [plr]
+[X] kill [plr]
+[X] respawn [plr]
+[X] tp [plr] [plr2]
+[X] to [plr]
+[X] bring [plr]
+[X] invis [plr]
+[X] vis [plr]
+[X] freeze [plr]
+[X] thaw [plr]
+[X] rtools [plr]
+[X] god [plr]
+[X] ungod [plr]
+[X] sethealth [plr]
+[X] unlock [plr]
+[X] lock [plr]
+[X] unlock [plr]
+[X] watch [plr]
+[X] unwatch [plr]
+[X] clone [plr]
+[X] firstperson [plr]
+[X] thirdperson [plr]
+[X] shirt [plr] [templateid]
+[X] pants [plr] [templateid]
+[X] bighead [plr]
+[X] peanuthead [plr]
+[X] changestat [plr] [statname] [value]
+[X] guest [plr]
+[X] unguest [plr]
+[X] noob [plr]
+[X] unnoob [plr]
+[X] particles [plr] [id]
+[X] duck [plr]
+[X] crash [plr]
+[X] fling [plr]
+[X] charapp [plr] [userid]
+[X] uncharapp [plr]
+[X] nojump [plr]
+[X] rejump [plr]
+[X] stun [plr]
+[X] guestchat
+[X] light [plr]
+[X] unlight [plr]
 
-----------CLua function commands----------: (Do not attempt to use unless you are aware of what they actually do)
+Server Commands:
+[X] time [value]
+[X] gravity [value]
+[X] rhum [plr]
+[X] punish [plr]
+[X] music [id]
+[X] stopmusic
+[X] skybox [id]
+[X] removeskybox
+[X] unanchorws
+[X] unlockws
+[X] fogend [value]
+[X] fogstart [value]
+[X] ambient [value]
+[X] fogcolor [value]
+[X] daytime
+[X] nighttime
+[X] noon
+[X] sunrise
 
-getglobal [name]
-getfield [name]
-setfield [name]
-pushnumber [number]
-pcall [nargs] [nresults]
-pushstring [string]
-pushvalue [index]
-clearstack
+Game Specific Commands:
+[X] fencingreach
+[X] longfencingreach
+[X] customfencingreach [value]
+[X] finishmap [map] (finishes map on Bhop or Surf)
+[X] apocstats
+
+C Lua Commands:
+[X] getglobal [name]
+[X] getfield [name]
+[X] setfield [name]
+[X] pushnumber [number]
+[X] pcall [nargs] [nresults]
+[X] pushstring [string]
+[X] pushvalue [index]
+[X] clearstack
