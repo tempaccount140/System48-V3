@@ -1,4 +1,4 @@
-	Current System48 Commands.
+    Current System48 Commands.
 	NOTE: You're able to use plr/all/others/me/guest/random
 	You can do shortnames too.
 
@@ -87,6 +87,7 @@
 	[X] fencingreach
 	[X] longfencingreach
 	[X] customfencingreach [value]
+	[X] recruitplazareach
 	[X] finishmap [map] (finishes map on Bhop or Surf)
 	[X] drivebloxcash [plr] [value]
 	[X] apocstats
